@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = btg_test
+build_property.ProjectDir = D:\OneDrive\_CURSOS\curso_csharp_ada\CURSO_SEMESTRE\modulo6\testes_aula2\btg-testes\btg-testes-auto\btg-test\

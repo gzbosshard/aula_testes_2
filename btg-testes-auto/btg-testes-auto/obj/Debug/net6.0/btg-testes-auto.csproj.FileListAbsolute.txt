@@ -1,0 +1,14 @@
+D:\OneDrive\_CURSOS\curso_csharp_ada\CURSO_SEMESTRE\modulo6\testes_aula2\btg-testes\btg-testes-auto\btg-testes-auto\bin\Debug\net6.0\btg-testes-auto.exe
+D:\OneDrive\_CURSOS\curso_csharp_ada\CURSO_SEMESTRE\modulo6\testes_aula2\btg-testes\btg-testes-auto\btg-testes-auto\bin\Debug\net6.0\btg-testes-auto.deps.json
+D:\OneDrive\_CURSOS\curso_csharp_ada\CURSO_SEMESTRE\modulo6\testes_aula2\btg-testes\btg-testes-auto\btg-testes-auto\bin\Debug\net6.0\btg-testes-auto.runtimeconfig.json
+D:\OneDrive\_CURSOS\curso_csharp_ada\CURSO_SEMESTRE\modulo6\testes_aula2\btg-testes\btg-testes-auto\btg-testes-auto\bin\Debug\net6.0\btg-testes-auto.dll
+D:\OneDrive\_CURSOS\curso_csharp_ada\CURSO_SEMESTRE\modulo6\testes_aula2\btg-testes\btg-testes-auto\btg-testes-auto\bin\Debug\net6.0\btg-testes-auto.pdb
+D:\OneDrive\_CURSOS\curso_csharp_ada\CURSO_SEMESTRE\modulo6\testes_aula2\btg-testes\btg-testes-auto\btg-testes-auto\obj\Debug\net6.0\btg-testes-auto.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\_CURSOS\curso_csharp_ada\CURSO_SEMESTRE\modulo6\testes_aula2\btg-testes\btg-testes-auto\btg-testes-auto\obj\Debug\net6.0\btg-testes-auto.AssemblyInfoInputs.cache
+D:\OneDrive\_CURSOS\curso_csharp_ada\CURSO_SEMESTRE\modulo6\testes_aula2\btg-testes\btg-testes-auto\btg-testes-auto\obj\Debug\net6.0\btg-testes-auto.AssemblyInfo.cs
+D:\OneDrive\_CURSOS\curso_csharp_ada\CURSO_SEMESTRE\modulo6\testes_aula2\btg-testes\btg-testes-auto\btg-testes-auto\obj\Debug\net6.0\btg-testes-auto.csproj.CoreCompileInputs.cache
+D:\OneDrive\_CURSOS\curso_csharp_ada\CURSO_SEMESTRE\modulo6\testes_aula2\btg-testes\btg-testes-auto\btg-testes-auto\obj\Debug\net6.0\btg-testes-auto.dll
+D:\OneDrive\_CURSOS\curso_csharp_ada\CURSO_SEMESTRE\modulo6\testes_aula2\btg-testes\btg-testes-auto\btg-testes-auto\obj\Debug\net6.0\refint\btg-testes-auto.dll
+D:\OneDrive\_CURSOS\curso_csharp_ada\CURSO_SEMESTRE\modulo6\testes_aula2\btg-testes\btg-testes-auto\btg-testes-auto\obj\Debug\net6.0\btg-testes-auto.pdb
+D:\OneDrive\_CURSOS\curso_csharp_ada\CURSO_SEMESTRE\modulo6\testes_aula2\btg-testes\btg-testes-auto\btg-testes-auto\obj\Debug\net6.0\btg-testes-auto.genruntimeconfig.cache
+D:\OneDrive\_CURSOS\curso_csharp_ada\CURSO_SEMESTRE\modulo6\testes_aula2\btg-testes\btg-testes-auto\btg-testes-auto\obj\Debug\net6.0\ref\btg-testes-auto.dll
